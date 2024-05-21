@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bohemian Top with Bell Sleeves",
+        "brand": "Autumn Leaves",
+        "price": "$29.99",
+        "imageSrc": "images/image-01.png"
+    },
+    {
+        "name": "Sky Blue Ripped Skinny Jeans TM",
+        "brand": "Levis",
+        "price": "$39.99",
+        "imageSrc": "images/image-02.png"
+    },
+    {
+        "name": "Embroidered Platform Sandals",
+        "brand": "Metro",
+        "price": "$24.99",
+        "imageSrc": "images/image-03.png"
+    },
+    {
+        "name": "Blue Dream Catcher Earrings",
+        "brand": "Vivian",
+        "price": "$8.99",
+        "imageSrc": "images/image-04.png"
+    },
+    {
+        "name": "Multicolor Stone-Beaded Bracelet",
+        "brand": "Vivian",
+        "price": "$7.99",
+        "imageSrc": "images/image-05.png"
+    },
+    {
+        "name": "Red Crush Lipstick",
+        "brand": "Dior",
+        "price": "$14.99",
+        "imageSrc": "images/image-06.png"
+    },
+    {
+        "name": "Dusk Bronze Foundation Kit",
+        "brand": "Nykaa",
+        "price": "$12.99",
+        "imageSrc": "images/image-07.png"
+    },
+    {
+        "name": "Mandala Woven Straw Tote Bag",
+        "brand": "Elephanta",
+        "price": "$13.99",
+        "imageSrc": "images/image-08.png"
+    },
+    {
+        "name": "Skin Bronzer A78",
+        "brand": "Muse",
+        "price": "$18.99",
+        "imageSrc": "images/image-09.png"
+    }
+]
